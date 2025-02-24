@@ -2,7 +2,7 @@
 
 <!--
 **egnosis/egnosis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... developing my skillset on GitHub.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... send me a message via GetHub.
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... GitHub is beginning to make some sense to me!
--->
+
